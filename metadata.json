@@ -1,0 +1,5 @@
+{
+  "name": "StatementSense AI",
+  "description": "Intelligent Bank Statement OCR & Financial Analysis System using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
